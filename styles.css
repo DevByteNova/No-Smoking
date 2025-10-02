@@ -1,0 +1,12 @@
+header, .hero{
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+h1, h2, h5{
+    font-family: 'Arial Black', sans-serif;
+}
+.btn-danger{
+    background-color: #b22222;
+    border: none;
+}
